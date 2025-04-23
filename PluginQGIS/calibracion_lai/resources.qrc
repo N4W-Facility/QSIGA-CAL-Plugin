@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Calibracion_LAI" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

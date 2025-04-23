@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>logos/N4W Logo_Tagline Logo Colour.png</file>
+    <file>logos/Pegasys Logo.ai</file>
+    <file>logos/TNCLogoPrimary_RGB.png</file>
+    <file>logos/Qsiga.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/QSIGA_CAL" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

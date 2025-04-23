@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Siga_step_04_Priori" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
