@@ -1,0 +1,21 @@
+================================================================================
+REPORTE DE PROBLEMAS - ARCHIVO DE SERIES DE TIEMPO SIGA
+================================================================================
+
+Archivo analizado: Plugins/Step_03/Data/TimeSeries_Qcapt.txt
+Fecha del análisis: Mon Nov 10 12:56:56 -05 2025
+
+--------------------------------------------------------------------------------
+PROBLEMAS ENCONTRADOS:
+--------------------------------------------------------------------------------
+1. ⚠️  PROBLEMA: Hay 1 filas EXTRA de datos (declaradas: 16802, reales: 16803)
+
+--------------------------------------------------------------------------------
+DETALLES:
+--------------------------------------------------------------------------------
+Registros declarados: 16,802
+Registros reales: 16,803
+Discrepancia: +1 filas
+Columnas esperadas: 10
+Columnas encontradas: 10
+Line endings: LF (Unix)
